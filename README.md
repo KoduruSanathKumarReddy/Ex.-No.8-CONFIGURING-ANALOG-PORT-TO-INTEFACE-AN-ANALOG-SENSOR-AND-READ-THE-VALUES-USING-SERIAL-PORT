@@ -189,9 +189,6 @@ PUTCHAR_PROTOTYPE
 ~~~
 
  
-
-## Result :
- Thus, the configuring analog port to interface an analog sensor and read the values using serial port is successfully executed.
 ## Output  :
 
 
@@ -205,5 +202,8 @@ PUTCHAR_PROTOTYPE
 # ii)
 <img width="830" alt="Screenshot 2023-11-09 at 3 53 17 PM" src="https://github.com/KoduruSanathKumarReddy/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/69503902/8f331192-1ec0-41a3-834b-e9eb6795f0dd">
 
+
+## Result :
+ Thus, the configuring analog port to interface an analog sensor and read the values using serial port is successfully executed.
 
 
