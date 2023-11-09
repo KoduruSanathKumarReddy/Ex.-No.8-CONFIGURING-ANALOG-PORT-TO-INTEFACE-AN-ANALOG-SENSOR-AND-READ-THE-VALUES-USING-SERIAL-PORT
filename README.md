@@ -151,6 +151,10 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 ##  Program 
 ~~~
+Developed by: Koduru Sanath Kumar Reddy
+Register no:212221240024
+~~~
+~~~
 #include "main.h"
 #include"stdio.h"
 uint32_t adcvalue;
